@@ -1,0 +1,3 @@
+# Javademo
+This repository if for testing how to use git in Eclipse
+...
